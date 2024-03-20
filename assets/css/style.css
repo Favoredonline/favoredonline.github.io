@@ -8,12 +8,12 @@ body {
 }
 
 a {
-  color: #FF33F3;
+  color: #000000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #000000;
+  color: #FF33F3;
   text-decoration: none;
 }
 
@@ -177,7 +177,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #FFDDFF;
+  background: #FFF2D3;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -201,7 +201,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #800285;
+  color: #FFF2D3;
 }
 
 .navbar .dropdown:hover>ul {
@@ -286,7 +286,7 @@ h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #FFDDFF;
+  background-color: #FFF2D3;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -318,7 +318,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #FFDDFF;
+  background: #FFF2D3;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -685,7 +685,7 @@ section {
 .featured-services .icon-box {
   padding: 20px;
   color: #000000;
-  background: #FEEDFF;
+  background: #FFF2D3;
   border-radius: 4px;
   border: 1px solid #f9f9fa;
   transition: 0.3s;
@@ -1413,7 +1413,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background-color: #FEEDFF;
+  background-color: #FFF2D3;
   color: #000000;
   font-size: 14px;
   position: relative;
