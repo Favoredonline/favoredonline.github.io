@@ -383,6 +383,10 @@ h6 {
 ;
 }
 
+#hero .btn-get-started {
+  box-shadow: 0 8px 28px rgba(223, 100, 2, 0.5); /* Adjusted for light orange shadow */
+}
+
 #hero .btn-get-started:hover {
   background: #000000;
   box-shadow: 0 8px 28px rgba(32, 107, 251, 0.45);
@@ -519,6 +523,9 @@ h6 {
 ;
 }
 
+#heros .btn-get-started {
+  box-shadow: 0 8px 28px rgba(223, 100, 2, 0.5); /* Adjusted for light orange shadow */
+  
 #heros .btn-get-started:hover {
   background: #000000;
   box-shadow: 0 8px 28px rgba(32, 107, 251, 0.45);
