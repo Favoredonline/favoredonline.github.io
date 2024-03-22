@@ -1473,7 +1473,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #16df7e;
+  background: #FFF2D3;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1481,7 +1481,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #206bfb;
+  background: #FFF2D3;
 }
 
 #footer .footer-top .social-links {
@@ -1491,7 +1491,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #DF6402;
+  background: #DF6402
   color: #000000;
   line-height: 1;
   padding: 8px 0;
@@ -1510,7 +1510,7 @@ section {
 }
 
 #footer .footer-bottom {
-  border-top: 1px solid #d9dce2;
+  border-top: 1px solid #FFF2D3;
   z-index: 2;
   position: relative;
   padding-top: 40px;
